@@ -2,7 +2,7 @@
 Some visualizations or analysis that I'm allowed to share but I don't want to explain them as an entire project.
 
 # Table Of Contents
-* [Play Story](#PlayStory)
+* [Play Story](#Play-Story)
 * [Twitter Partido Libertario Mx](#Twitter-Partido-Libertario-Mx)
 * [Facebook Partido Libertario Mx](#Facebook-Partido-Libertario-Mx)
 * [Affiliations Partido Libertario Mx](#Affiliations-Partido-Libertario-Mx)
