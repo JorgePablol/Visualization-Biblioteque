@@ -17,31 +17,31 @@ Some visualizations or analysis that I'm allowed to share but I don't want to ex
 
 ## [Play Story](#Table-Of-Contents)
 Analizing data from play store apps.
-Watch the visualization [here](https://github.com/JorgePablol/Exploratory-Analysis-Play-Store)
+Watch the visualization [here](https://github.com/JorgePablol/Exploratory-Analysis-Play-Store).
 
 ## [Twitter Partido Libertario Mx](#Table-Of-Contents)
 Analyzing twitter historic data for partido libertario mx.
-Watch the visualization [here](https://datastudio.google.com/s/n4ANzSy1BsI)
+Watch the visualization [here](https://datastudio.google.com/s/n4ANzSy1BsI).
 
 ## [Facebook Partido Libertario Mx](#Table-Of-Contents)
 Analyzing facebook historic data for partido libertario mx.
-Watch the visualization [here](https://datastudio.google.com/s/ijp4Q2Rkdb4)
+Watch the visualization [here](https://datastudio.google.com/s/ijp4Q2Rkdb4).
 
 ## [Affiliations Partido Libertario Mx January](#Table-Of-Contents)
 Analyzing the geographyc distribution of the firsts affiliates for partido libertario mx.
-Watch the visualization [here](https://datastudio.google.com/s/vxTXRkggbJQ)
+Watch the visualization [here](https://datastudio.google.com/s/vxTXRkggbJQ).
 
 ## [Tik Tok](#Table-Of-Contents)
 Visualizing tik tok data from partido libertario mx user.
-Watch the visualization [here](https://datastudio.google.com/s/vcKFj1nv8hY)
+Watch the visualization [here](https://datastudio.google.com/s/vcKFj1nv8hY).
 
 ## [Individual Liberties Event](#Table-Of-Contents)
 Visualizing the impact of the event 'In defense of individual liberties'.
-Watch the visualization [here](https://datastudio.google.com/reporting/6d2f27fc-764a-4611-b066-2c23b47e2888)
+Watch the visualization [here](https://datastudio.google.com/reporting/6d2f27fc-764a-4611-b066-2c23b47e2888).
 
 ## [Zona Libre](#Table-Of-Contents)
 Visualizing the results of zona libre a podcast.
-Watch the visualization [here](https://datastudio.google.com/s/kqdBOu6Hrv0)
+Watch the visualization [here](https://datastudio.google.com/s/kqdBOu6Hrv0).
 
 # [Other Repositories](#Table-Of-Contents)
 
