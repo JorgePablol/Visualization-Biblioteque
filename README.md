@@ -1,7 +1,6 @@
 # Visualization Bibliotheque
 Some visualizations or analysis that I'm allowed to share but I don't want to explain them as an entire project. Excepting for play story that is actually explained as an entire project xd.
 
-Click on the title link to come back to the table of contents.
 
 # Table Of Contents
 * [Visualization Bibliotheque](#Visualization-Bibliotheque)
