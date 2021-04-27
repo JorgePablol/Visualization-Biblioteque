@@ -1,14 +1,18 @@
-# Visualization Biblioteque
+# Visualization Bibliotheque
 Some visualizations or analysis that I'm allowed to share but I don't want to explain them as an entire project. Excepting for play story that is actually explained as an entire project xd.
 
 # Table Of Contents
-* [Play Story](#Play-Story)
-* [Twitter Partido Libertario Mx](#Twitter-Partido-Libertario-Mx)
-* [Facebook Partido Libertario Mx](#Facebook-Partido-Libertario-Mx)
-* [Affiliations Partido Libertario Mx](#Affiliations-Partido-Libertario-Mx)
-* [Tik Tok](#Tik-Tok)
-* [Individual Liberties](#Individual-Liberties-Event)
-* [Zona Libre](#Zona-Libre)
+*[Visualization Bibliotheque](#Visualization-Bibliotheque)
+  * [Play Story](#Play-Story)
+  * [Twitter Partido Libertario Mx](#Twitter-Partido-Libertario-Mx)
+  * [Facebook Partido Libertario Mx](#Facebook-Partido-Libertario-Mx)
+  * [Affiliations Partido Libertario Mx](#Affiliations-Partido-Libertario-Mx)
+  * [Tik Tok](#Tik-Tok)
+  * [Individual Liberties](#Individual-Liberties-Event)
+  * [Zona Libre](#Zona-Libre)
+* [Others](#Others)
+  * [MySQL Queries](#My-SQL)
+  * [Python Training](#Python-Training)
 
 # [Play Story](#Table-Of-Contents)
 Analizing data from play store apps.
