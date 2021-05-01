@@ -2,7 +2,7 @@
 Some visualizations or analysis that I'm allowed to share but I don't want to explain them as an entire project. Excepting for play story that is actually explained as an entire project xd.
 
 ### Other repositories
-Those are repositories where I have done some projects but aren't relevant enough to put them in my portfolio.
+Not so relevant repositories.
 
 # Table Of Links (click on the title to watch the visualizations/repositories in your browser)
 * Visualization Bibliotheque
