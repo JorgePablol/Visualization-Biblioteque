@@ -1,9 +1,3 @@
-### Visualization Bibliotheque
-Some visualizations or analysis that I'm allowed to share but I don't want to explain them as an entire project. Excepting for play story that is actually explained as an entire project xd.
-
-### Other Repositories
-Not so relevant repositories.
-
 # Table Of Links (click on the title to watch the visualizations/repositories in your browser)
 * Visualization Bibliotheque
    * [Tik Tok](https://datastudio.google.com/s/vcKFj1nv8hY)
