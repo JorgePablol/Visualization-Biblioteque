@@ -4,7 +4,7 @@ Some visualizations or analysis that I'm allowed to share but I don't want to ex
 # Other repositories
 Those are repositories where I have done some projects but aren't relevant enough to put them in my portfolio.
 
-# Table Of Links Click to open the visualization in your browser.
+# Table Of Links (click on the title to watch the visualizations/repositories in your browser)
 * Visualization Bibliotheque
    * [Play Story](https://github.com/JorgePablol/Exploratory-Analysis-Play-Store)
    * [Twitter Partido Libertario Mx](https://datastudio.google.com/s/n4ANzSy1BsI)
