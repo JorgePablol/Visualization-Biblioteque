@@ -1,4 +1,5 @@
-# Table Of Links (click on the title to watch the visualizations/repositories in your browser)
+# Table Of Links
+### Click on the title to watch the visualization/repository in your browser
 * Visualization Bibliotheque
    * [Tik Tok](https://datastudio.google.com/s/vcKFj1nv8hY)
    * [Twitter Partido Libertario Mx](https://datastudio.google.com/s/n4ANzSy1BsI)
