@@ -1,7 +1,7 @@
 # Table Of Links
 ### Click on the title to watch the visualization/repository in your browser
 * Visualization Bibliotheque
-   * [Dashboards | Social Networks Partido Libertario Mx](https://app.powerbi.com/view?r=eyJrIjoiZjRkNDNjOTItMDEwYy00Y2YzLTlkMjEtN2IyYTBhNDM3MTM0IiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSection913c331244a97b1923df)
+   * [Dashboards | Social Networks Partido Libertario Mx](https://app.powerbi.com/view?r=eyJrIjoiZjRkNDNjOTItMDEwYy00Y2YzLTlkMjEtN2IyYTBhNDM3MTM0IiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionb3ea33bc1b95e64923b6)
    * [Twitter Partido Libertario Mx](https://datastudio.google.com/s/n4ANzSy1BsI)
    * [Tik Tok](https://datastudio.google.com/s/vcKFj1nv8hY)
    * [Facebook Partido Libertario Mx](https://datastudio.google.com/s/ijp4Q2Rkdb4)
