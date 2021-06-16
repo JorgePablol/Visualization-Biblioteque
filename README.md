@@ -9,6 +9,10 @@
    * [Play Story](https://github.com/JorgePablol/Exploratory-Analysis-Play-Store)
    * [Individual Liberties](https://datastudio.google.com/reporting/6d2f27fc-764a-4611-b066-2c23b47e2888)
    * [Zona Libre](https://datastudio.google.com/s/kqdBOu6Hrv0)
+   * Social Networks May 2021
+      * [Repository](https://github.com/JorgePablol/Data-Analysis-Libertarian-with-Tableau)
+      * [Facebook](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&:origin=viz_share_link) 
+      * [Twitter](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
 * Other Repositories
    * [MySQL Queries](https://github.com/JorgePablol/hackerrank_mysql)
    * [Python Training](https://github.com/JorgePablol/hackerrank_python3)
